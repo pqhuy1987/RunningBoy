@@ -584,6 +584,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.runningman.100;
 				PRODUCT_NAME = ours;
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -616,6 +617,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.runningman.100;
 				PRODUCT_NAME = ours;
 				PROVISIONING_PROFILE = "";
 				VALIDATE_PRODUCT = YES;

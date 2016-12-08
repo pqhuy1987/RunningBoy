@@ -592,6 +592,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.runningman.100;
 				PRODUCT_NAME = ours;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -626,6 +627,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.runningman.100;
 				PRODUCT_NAME = ours;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
